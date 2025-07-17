@@ -12,7 +12,7 @@ I have strong experience working with the Python, Java, and MySQL.
 
 ### 📫 Socials:
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/arghyadipadhikary))
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/arghyadipadhikary)
 
 
 ---
