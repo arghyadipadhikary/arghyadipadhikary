@@ -6,7 +6,7 @@
 
 I am a passionate Full Stack Developer and  Cybersecurity nerd, pursuing my B.Tech in Computer Science and Technology.  
 I have strong experience working with the Python, Java, and MySQL.  
-- 🧠 Solved over **12 problems on LeetCode** and **20 on HackerRank**  
+- 🧠 Solved over **17 problems on LeetCode** and **20 on HackerRank**  
 
 ---
 
