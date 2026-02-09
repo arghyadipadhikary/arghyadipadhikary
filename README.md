@@ -38,4 +38,5 @@ I have strong experience working with the Python, Java, and MySQL.
 
 ---
 
+[![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/YOUR-ID)
 
