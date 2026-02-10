@@ -37,6 +37,6 @@ I have strong experience working with the Python, Java, and MySQL.
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
+![snake gif](https://github.com/arghyadipadhikary/arghyadipadhikary/blob/output/github-snake-dark.svg)
 
 
