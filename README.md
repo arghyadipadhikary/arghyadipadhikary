@@ -26,6 +26,7 @@ I have strong experience working with the Python, Java, and MySQL.
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=black)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)](https://tryhackme.com/p/YOUR_USERNAME)
 
 
 ---
@@ -35,8 +36,7 @@ I have strong experience working with the Python, Java, and MySQL.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4404992" style='border:none;'></iframe>
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/arghyadip047.png)](https://tryhackme.com/p/arghyadip047)
 
 ![snake gif](https://github.com/arghyadipadhikary/arghyadipadhikary/blob/output/github-snake-dark.svg)
 ---
