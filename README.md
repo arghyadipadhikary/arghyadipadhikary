@@ -36,5 +36,7 @@ I have strong experience working with the Python, Java, and MySQL.
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4404992" style='border:none;'></iframe>
+
 ![snake gif](https://github.com/arghyadipadhikary/arghyadipadhikary/blob/output/github-snake-dark.svg)
 ---
