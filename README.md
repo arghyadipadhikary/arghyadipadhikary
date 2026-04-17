@@ -10,6 +10,10 @@ I have strong experience working with the Python, Java, and MySQL.
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arghyadipadhikary&label=Profile%20views&color=0e75b6&style=flat" alt="arghyadipadhikary" />
+</p>
+
 ### 📫 Socials:
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/arghyadipadhikary)
