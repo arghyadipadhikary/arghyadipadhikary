@@ -22,7 +22,9 @@ I have strong experience working with the Python, Java, and MySQL.
 ![](https://streak-stats.demolab.com/?user=arghyadipadhikary&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arghyadipadhikary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghyadipadhikary" alt="arghyadipadhikary" /></a></p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=arghyadipadhikary" alt="GitHub Trophies" />
+</a>
 
 ![snake gif](https://github.com/arghyadipadhikary/arghyadipadhikary/blob/output/github-snake-dark.svg)
 ---
