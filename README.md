@@ -20,11 +20,10 @@ I have strong experience working with the Python, Java, and MySQL.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=arghyadipadhikary&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=arghyadipadhikary&theme=dark&hide_border=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadipadhikary&" alt="arghyadipadhikary" /></p>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arghyadipadhikary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=arghyadipadhikary" alt="GitHub Trophies" />
-</a>
 
 ![snake gif](https://github.com/arghyadipadhikary/arghyadipadhikary/blob/output/github-snake-dark.svg)
 ---
