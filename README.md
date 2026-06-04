@@ -19,7 +19,7 @@ I have strong experience working with the Python, Java, and MySQL.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=arghyadipadhikary&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com/?user=arghyadipadhikary&theme=dark" alt="arghyadipadhikary" />
 </p><br/>
 
