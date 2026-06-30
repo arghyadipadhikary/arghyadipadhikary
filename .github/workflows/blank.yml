@@ -18,12 +18,12 @@ jobs:
 
     steps:
       - name: Generate pacman-contribution-graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@v5
         with:
           github_user_name: ${{ github.repository_owner }}
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
