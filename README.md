@@ -31,4 +31,3 @@ I have strong experience working with the Python, Java, and MySQL.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arghyadipadhikary/arghyadipadhikary/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/arghyadipadhikary/arghyadipadhikary/output/pacman-contribution-graph.svg">
 </picture>
----
