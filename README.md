@@ -26,5 +26,9 @@ I have strong experience working with the Python, Java, and MySQL.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arghyadipadhikary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![snake gif](https://github.com/arghyadipadhikary/arghyadipadhikary/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arghyadipadhikary/arghyadipadhikary/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arghyadipadhikary/arghyadipadhikary/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/arghyadipadhikary/arghyadipadhikary/output/pacman-contribution-graph.svg">
+</picture>
 ---
