@@ -4,8 +4,8 @@
 
 ### 🧑‍💻 About Me:
 
-I am a passionate Full Stack Developer and  Cybersecurity nerd, pursuing my B.Tech in Computer Science and Technology.  
-I have strong experience working with the Python, Java, and MySQL.   
+I am a Full Stack Developer and  Cybersecurity Developer, pursuing my B.Tech in Computer Science and Information Technology.  
+I have strong experience working with the Python, C++ and MySQL.   
 
 ---
 
